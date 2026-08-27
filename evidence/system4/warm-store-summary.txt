@@ -1,0 +1,4 @@
+Fixture defects: 40
+Tables: [('defects',)]
+Indexes: [('idx_defects_shift_ts', 'defects'), ('idx_defects_ts', 'defects'), ('sqlite_autoindex_defects_1', 'defects')]
+defects rows: 40
